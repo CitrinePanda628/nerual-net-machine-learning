@@ -1,0 +1,13 @@
+{
+    "features": [
+        "lstm_dir",
+        "xgb_dir",
+        "rf_dir",
+        "logit_dir",
+        "lstm_mag",
+        "xgb_mag",
+        "rf_mag",
+        "lin_mag",
+        "pred_final_return"
+    ]
+}
